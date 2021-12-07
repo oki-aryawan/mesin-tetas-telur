@@ -39,7 +39,6 @@ void setup() {
   pinMode (buzzer, OUTPUT);
  //rtc.adjust(DateTime(2021, 4, 28, 14, 21, 0));
 }
-
 void loop() {
   sensor ();
   //jam();
